@@ -1,0 +1,30 @@
+{
+    "111": {
+        "id": "111",
+        "nombre": "ded",
+        "apellidos": "dede",
+        "direccion": "ded",
+        "acudiente": "dede",
+        "estado": "no aprobado",
+        "telefonos": {
+            "fijo": 222,
+            "celular": 223
+        },
+        "notaTeorica": 1,
+        "notaPractica": 100
+    },
+    "112": {
+        "id": "112",
+        "nombre": "swsw",
+        "apellidos": "swsw",
+        "direccion": "swsw",
+        "acudiente": "swsw",
+        "estado": "aprobado",
+        "telefonos": {
+            "fijo": 122,
+            "celular": 333
+        },
+        "notaTeorica": 70,
+        "notaPractica": 88
+    }
+}
